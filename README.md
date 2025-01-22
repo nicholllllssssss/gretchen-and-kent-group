@@ -26,6 +26,10 @@ Activity 1: Product
 3. Creating and Using the Object 
    We instantiated an object of the `Product` class. Using the `setProduct` method, we assigned values to the product’s properties, and then called the `getProductInfo` method to display the details of the product.
 
+
+   
+![Film on run](https://github.com/user-attachments/assets/c553679d-8092-4e41-b21e-bc83fb9d66a5)
+
 Activity 2: Movie
 1. Defining the Class 
    The `Movie` class was structured similarly, with five important properties: `title`, `genre`, `director`, `releaseYear`, and `rating`. These properties describe the key details of a movie.
