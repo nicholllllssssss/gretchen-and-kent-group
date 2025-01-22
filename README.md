@@ -1,10 +1,10 @@
 Narrative Report
 
-Course Title:** Object-Oriented Programming  
+Course Title: Object-Oriented Programming  
 Course Code: IT 210  
 Instructor: Vince Mark E. Arnedo  
 Term & AY: 2nd Sem, AY 2024-2025
-Group: gretchen and kent
+Group: gretchen manding and kent mangadap
 
 ---
 
