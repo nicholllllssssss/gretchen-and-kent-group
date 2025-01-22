@@ -25,10 +25,11 @@ Activity 1: Product
 
 3. Creating and Using the Object 
    We instantiated an object of the `Product` class. Using the `setProduct` method, we assigned values to the product’s properties, and then called the `getProductInfo` method to display the details of the product.
+![Product](https://github.com/user-attachments/assets/1e39c155-11bc-4fed-9fa0-96d158703cf2)
+![Product on run](https://github.com/user-attachments/assets/b4d3bcb0-b86a-46f5-9db7-359bf836ae50)
 
 
-   
-![Film on run](https://github.com/user-attachments/assets/c553679d-8092-4e41-b21e-bc83fb9d66a5)
+
 
 Activity 2: Movie
 1. Defining the Class 
@@ -40,6 +41,8 @@ Activity 2: Movie
 
 3. Creating and Using the Object  
    An object of the `Movie` class was created. We used the `setMovie` method to assign values to the movie’s properties, and the `getMovieInfo` method to retrieve and display the information.
+![Film](https://github.com/user-attachments/assets/ad3dca75-a6d3-474f-ae18-ea400dbc2c6c)
+![Film on run](https://github.com/user-attachments/assets/c553679d-8092-4e41-b21e-bc83fb9d66a5)
 
 ---
 
