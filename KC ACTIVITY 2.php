@@ -8,7 +8,7 @@ class Movie {
     private $genre;
     private $duration;
 
-    // Method to set movie details
+  
     public function setMovie($title, $director, $releaseYear, $genre, $duration) {
         $this->title = $title;
         $this->director = $director;
@@ -17,7 +17,7 @@ class Movie {
         $this->duration = $duration;
     }
 
-    // Method to get movie information
+   
     public function getMovieInfo() {
         return "Movie Title: $this->title\n" .
                "Director: $this->director\n" .
@@ -27,7 +27,7 @@ class Movie {
     }
 }
 
-// Create an object of Movie
+
 $movie = new Movie();
 $movie->setMovie("Inception", "Christopher Nolan", 2010, "Science Fiction", 148);
 echo $movie->getMovieInfo();
